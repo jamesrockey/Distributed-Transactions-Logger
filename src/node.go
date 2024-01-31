@@ -3,8 +3,6 @@ Distributed Transaction Logger
 CS 425 MP1
 
 James Rockey (jrockey2)
-Kareem Benaissa (kareem2)
-
 
 This project is a distributed system consisting of multiple nodes that maintain
 transaction logs for a financial application. The goal of the system is to ensure
