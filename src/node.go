@@ -1,7 +1,5 @@
 /*
 Distributed Transaction Logger
-CS 425 MP1
-
 James Rockey (jrockey2)
 
 This project is a distributed system consisting of multiple nodes that maintain
