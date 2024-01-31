@@ -32,7 +32,7 @@ This system is particularly suited for applications requiring accurate and consi
 Clone the repository and build the project:
 ```bash
 git clone https://github.com/yourusername/Distributed-Transaction-Logger.git
-cd distributed-transaction-logger
+cd Distributed-Transaction-Logger
 ```
 
 Building the program run this:
@@ -50,9 +50,9 @@ The first line of the configuration file specifies the number of nodes in the sy
 Example setup:
 ```bash
 3
-node1 cs425-0101.cs.illinois.edu 1234
-node2 cs425-0102.cs.illinois.edu 1234
-node3 cs425-0103.cs.illinois.edu 1234
+node1 0101.cs.illinois.edu 1234
+node2 0102.cs.illinois.edu 1234
+node3 0103.cs.illinois.edu 1234
 ```
 
 
