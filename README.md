@@ -31,7 +31,7 @@ This system is particularly suited for applications requiring accurate and consi
 ### Installation
 Clone the repository and build the project:
 ```bash
-git clone https://github.com/yourusername/Distributed-Transaction-Logger.git
+git clone https://github.com/jamesrockey/Distributed-Transactions-Logger.git
 cd Distributed-Transaction-Logger
 ```
 
